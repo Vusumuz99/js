@@ -4,3 +4,11 @@ body {
     font-family: 'dosis' , 'sans-serif' ;
     background-size:cover;
 }
+
+h1 {
+    color: rgb(29, 172, 16);
+}
+
+ button {
+     color: blue;
+ }
